@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdcba534.css",
-    "main.js": "/static/js/main.eaf58e9c.js",
+    "main.css": "/static/css/main.1709ae38.css",
+    "main.js": "/static/js/main.326aecd1.js",
     "static/media/Montserrat-SemiBoldItalic.ttf": "/static/media/Montserrat-SemiBoldItalic.e2530ce50f6cc45f2830.ttf",
     "static/media/Montserrat-LightItalic.ttf": "/static/media/Montserrat-LightItalic.89c1158058a0ccae861a.ttf",
     "static/media/Montserrat-BoldItalic.ttf": "/static/media/Montserrat-BoldItalic.6bfb0703bffc1e9c85ae.ttf",
@@ -44,14 +44,17 @@
     "static/media/ibmmq.png": "/static/media/ibmmq.602477ba7d282970e409.png",
     "static/media/keycloak.png": "/static/media/keycloak.e97fca223c03b1dc6528.png",
     "static/media/logo.svg": "/static/media/logo.3deea9336d0e651619fe04e3821bc8ee.svg",
+    "static/media/industry.svg": "/static/media/industry.1c6b090a18f00b8bd0174bcae63905e7.svg",
+    "static/media/team-size.svg": "/static/media/team-size.69c5c2abd4fd14798ac26e725f82be54.svg",
     "static/media/fiber.svg": "/static/media/fiber.6a027798c82300e3e4360e3b88d15263.svg",
+    "static/media/experience-value.svg": "/static/media/experience-value.0e753bf4fa1215a959580983e824428e.svg",
     "index.html": "/index.html",
     "static/media/clickhouse.svg": "/static/media/clickhouse.57b884c9a1785bb3cb13d4e4a34d39d9.svg",
-    "main.fdcba534.css.map": "/static/css/main.fdcba534.css.map",
-    "main.eaf58e9c.js.map": "/static/js/main.eaf58e9c.js.map"
+    "main.1709ae38.css.map": "/static/css/main.1709ae38.css.map",
+    "main.326aecd1.js.map": "/static/js/main.326aecd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdcba534.css",
-    "static/js/main.eaf58e9c.js"
+    "static/css/main.1709ae38.css",
+    "static/js/main.326aecd1.js"
   ]
 }

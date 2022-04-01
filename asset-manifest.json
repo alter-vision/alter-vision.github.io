@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.05fff019.css",
-    "main.js": "/static/js/main.3ac891df.js",
+    "main.css": "/static/css/main.c50f847e.css",
+    "main.js": "/static/js/main.41ad58a4.js",
     "static/media/Montserrat-SemiBoldItalic.ttf": "/static/media/Montserrat-SemiBoldItalic.e2530ce50f6cc45f2830.ttf",
     "static/media/Montserrat-LightItalic.ttf": "/static/media/Montserrat-LightItalic.89c1158058a0ccae861a.ttf",
     "static/media/Montserrat-BoldItalic.ttf": "/static/media/Montserrat-BoldItalic.6bfb0703bffc1e9c85ae.ttf",
@@ -50,11 +50,11 @@
     "static/media/experience-value.svg": "/static/media/experience-value.0e753bf4fa1215a959580983e824428e.svg",
     "index.html": "/index.html",
     "static/media/clickhouse.svg": "/static/media/clickhouse.57b884c9a1785bb3cb13d4e4a34d39d9.svg",
-    "main.05fff019.css.map": "/static/css/main.05fff019.css.map",
-    "main.3ac891df.js.map": "/static/js/main.3ac891df.js.map"
+    "main.c50f847e.css.map": "/static/css/main.c50f847e.css.map",
+    "main.41ad58a4.js.map": "/static/js/main.41ad58a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.05fff019.css",
-    "static/js/main.3ac891df.js"
+    "static/css/main.c50f847e.css",
+    "static/js/main.41ad58a4.js"
   ]
 }

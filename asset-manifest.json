@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d76f7831.css",
-    "main.js": "/static/js/main.8bd4a628.js",
+    "main.js": "/static/js/main.712bc2bb.js",
     "static/media/Montserrat-SemiBoldItalic.ttf": "/static/media/Montserrat-SemiBoldItalic.e2530ce50f6cc45f2830.ttf",
     "static/media/Montserrat-LightItalic.ttf": "/static/media/Montserrat-LightItalic.89c1158058a0ccae861a.ttf",
     "static/media/Montserrat-BoldItalic.ttf": "/static/media/Montserrat-BoldItalic.6bfb0703bffc1e9c85ae.ttf",
@@ -46,15 +46,15 @@
     "static/media/logo.svg": "/static/media/logo.3deea9336d0e651619fe04e3821bc8ee.svg",
     "static/media/industry.svg": "/static/media/industry.1c6b090a18f00b8bd0174bcae63905e7.svg",
     "static/media/team-size.svg": "/static/media/team-size.69c5c2abd4fd14798ac26e725f82be54.svg",
-    "static/media/fiber.svg": "/static/media/fiber.6a027798c82300e3e4360e3b88d15263.svg",
     "index.html": "/index.html",
+    "static/media/fiber.svg": "/static/media/fiber.6a027798c82300e3e4360e3b88d15263.svg",
     "static/media/experience-value.svg": "/static/media/experience-value.0e753bf4fa1215a959580983e824428e.svg",
     "static/media/clickhouse.svg": "/static/media/clickhouse.57b884c9a1785bb3cb13d4e4a34d39d9.svg",
     "main.d76f7831.css.map": "/static/css/main.d76f7831.css.map",
-    "main.8bd4a628.js.map": "/static/js/main.8bd4a628.js.map"
+    "main.712bc2bb.js.map": "/static/js/main.712bc2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.d76f7831.css",
-    "static/js/main.8bd4a628.js"
+    "static/js/main.712bc2bb.js"
   ]
 }

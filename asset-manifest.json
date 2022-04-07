@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "https://alter.vision/static/css/main.e5412f49.css",
-    "main.js": "https://alter.vision/static/js/main.87d7d59d.js",
-    "static/css/118.09407cba.chunk.css": "https://alter.vision/static/css/118.09407cba.chunk.css",
-    "static/js/118.c940ef7a.chunk.js": "https://alter.vision/static/js/118.c940ef7a.chunk.js",
+    "main.css": "https://alter.vision/static/css/main.ab2f61a2.css",
+    "main.js": "https://alter.vision/static/js/main.17f60a04.js",
+    "static/css/118.ac2f3789.chunk.css": "https://alter.vision/static/css/118.ac2f3789.chunk.css",
+    "static/js/118.8917ff6a.chunk.js": "https://alter.vision/static/js/118.8917ff6a.chunk.js",
     "static/css/246.bb240857.chunk.css": "https://alter.vision/static/css/246.bb240857.chunk.css",
     "static/js/246.047a1145.chunk.js": "https://alter.vision/static/js/246.047a1145.chunk.js",
     "static/css/279.448005cb.chunk.css": "https://alter.vision/static/css/279.448005cb.chunk.css",
@@ -61,7 +61,7 @@
     "static/media/clickhouse.svg": "https://alter.vision/static/media/clickhouse.57b884c9a1785bb3cb13d4e4a34d39d9.svg"
   },
   "entrypoints": [
-    "static/css/main.e5412f49.css",
-    "static/js/main.87d7d59d.js"
+    "static/css/main.ab2f61a2.css",
+    "static/js/main.17f60a04.js"
   ]
 }

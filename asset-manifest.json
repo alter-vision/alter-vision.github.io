@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://team.alter.vision/static/css/main.42456484.css",
-    "main.js": "https://team.alter.vision/static/js/main.c25b70f6.js",
+    "main.css": "https://team.alter.vision/static/css/main.9e741fbc.css",
+    "main.js": "https://team.alter.vision/static/js/main.0c6b8626.js",
     "static/css/118.e1d2303f.chunk.css": "https://team.alter.vision/static/css/118.e1d2303f.chunk.css",
     "static/js/118.8917ff6a.chunk.js": "https://team.alter.vision/static/js/118.8917ff6a.chunk.js",
     "static/css/246.bb240857.chunk.css": "https://team.alter.vision/static/css/246.bb240857.chunk.css",
-    "static/js/246.047a1145.chunk.js": "https://team.alter.vision/static/js/246.047a1145.chunk.js",
+    "static/js/246.2428b506.chunk.js": "https://team.alter.vision/static/js/246.2428b506.chunk.js",
     "static/css/279.448005cb.chunk.css": "https://team.alter.vision/static/css/279.448005cb.chunk.css",
     "static/js/279.83bbfc49.chunk.js": "https://team.alter.vision/static/js/279.83bbfc49.chunk.js",
     "static/css/281.f8e995bb.chunk.css": "https://team.alter.vision/static/css/281.f8e995bb.chunk.css",
@@ -52,7 +52,8 @@
     "static/media/ktor.png": "https://team.alter.vision/static/media/ktor.8982dbef493dd3363b72.png",
     "static/media/ibmmq.png": "https://team.alter.vision/static/media/ibmmq.602477ba7d282970e409.png",
     "static/media/keycloak.png": "https://team.alter.vision/static/media/keycloak.e97fca223c03b1dc6528.png",
-    "static/media/logo.svg": "https://team.alter.vision/static/media/logo.3deea9336d0e651619fe04e3821bc8ee.svg",
+    "static/media/logo-mini-white.svg": "https://team.alter.vision/static/media/logo-mini-white.6d966498bd1577a0bb9d263ab1a5ecaa.svg",
+    "static/media/logo-normal-white.svg": "https://team.alter.vision/static/media/logo-normal-white.1d00e265ed80a7f7f02617eb94f876c7.svg",
     "static/media/industry.svg": "https://team.alter.vision/static/media/industry.1c6b090a18f00b8bd0174bcae63905e7.svg",
     "static/media/team-size.svg": "https://team.alter.vision/static/media/team-size.69c5c2abd4fd14798ac26e725f82be54.svg",
     "index.html": "https://team.alter.vision/index.html",
@@ -61,7 +62,7 @@
     "static/media/clickhouse.svg": "https://team.alter.vision/static/media/clickhouse.57b884c9a1785bb3cb13d4e4a34d39d9.svg"
   },
   "entrypoints": [
-    "static/css/main.42456484.css",
-    "static/js/main.c25b70f6.js"
+    "static/css/main.9e741fbc.css",
+    "static/js/main.0c6b8626.js"
   ]
 }
